@@ -1,0 +1,180 @@
+{"data": [{
+    "seen": true,
+    "transactions": [],
+    "date": "2022-09-30T18:06:26.041Z",
+    "_id": "",
+    "userName": "Yubis Guzmán ",
+    "userImage": "https://i.pinimg.com/280x280_RS/76/e0/8c/76e08c1fc563fa0105e31bddf6f57bee.jpg ",
+    "title": "Fantasy Watercolor Work",
+    "description": "Commision artwork",
+    "img": "https://i.pinimg.com/750x/f6/6f/03/f66f03b00e5831d8317810724a1c296e.jpg",
+    "origin": "Venezuela",
+    "technique": [
+        "Watercolor"
+    ],
+    "style": "Fantasy",
+    "colors": [
+        "Red"
+    ],
+    "releaseDate": 2019,
+    "price": 1748.32,
+    "stock": 10,
+    "tags": [
+        "draw",
+        "watercolor",
+        "colors"
+    ],
+    "likes": [],
+    "comments": [],
+    "__v": 0
+},
+{
+    "seen": true,
+    "transactions": [],
+    "date": "2022-09-30T18:06:26.041Z",
+    "_id": "",
+    "userName": "Yubis Guzmán ",
+    "userImage": " https://i.pinimg.com/280x280_RS/76/e0/8c/76e08c1fc563fa0105e31bddf6f57bee.jpg",
+    "title": "Fantasy Watercolor Work",
+    "description": "Commision artwork",
+    "img": "https://i.pinimg.com/750x/2d/84/36/2d8436cfee66d34751f8974f1b55ac00.jpg",
+    "origin": "Venezuela",
+    "technique": [
+        "Watercolor"
+    ],
+    "style": "Fantasy",
+    "colors": [
+        "Aquamarine"
+    ],
+    "releaseDate": 2019,
+    "price": 1944.5,
+    "stock": 10,
+    "tags": [
+        "paint",
+        "watercolor",
+        "colors"
+    ],
+    "likes": [],
+    "comments": [],
+    "__v": 0
+},
+{
+    "seen": true,
+    "transactions": [],
+    "date": "2022-09-30T18:06:26.041Z",
+    "_id": "",
+    "userName": "Yubis Guzmán ",
+    "userImage": "https://i.pinimg.com/280x280_RS/76/e0/8c/76e08c1fc563fa0105e31bddf6f57bee.jpg ",
+    "title": "Fantasy Watercolor Work",
+    "description": "Commision artwork",
+    "img": "https://i.pinimg.com/750x/d2/81/4c/d2814c70d996fd057ff08bbcb720108c.jpg",
+    "origin": "Venezuela",
+    "technique": [
+        "Watercolor"
+    ],
+    "style": "Fantasy",
+    "colors": [
+        "Orange"
+    ],
+    "releaseDate": 2019,
+    "price": 1109.58,
+    "stock": 10,
+    "tags": [
+        "paint",
+        "watercolor",
+        "colors"
+    ],
+    "likes": [],
+    "comments": [],
+    "__v": 0
+},
+{
+    "seen": true,
+    "transactions": [],
+    "date": "2022-09-30T18:06:26.041Z",
+    "_id": "",
+    "userName": "Yubis Guzmán ",
+    "userImage": "https://i.pinimg.com/280x280_RS/76/e0/8c/76e08c1fc563fa0105e31bddf6f57bee.jpg ",
+    "title": "Fantasy Watercolor Work",
+    "description": "Commision artwork",
+    "img": "https://i.pinimg.com/750x/66/8e/68/668e68d1aef549341bcab8b4b3cddb69.jpg",
+    "origin": "Venezuela",
+    "technique": [
+        "Watercolor"
+    ],
+    "style": "Fantasy",
+    "colors": [
+        "Khaki"
+    ],
+    "releaseDate": 2021,
+    "price": 1985.82,
+    "stock": 10,
+    "tags": [
+        "paint",
+        "watercolor",
+        "colors"
+    ],
+    "likes": [],
+    "comments": [],
+    "__v": 0
+},
+{
+    "seen": true,
+    "transactions": [],
+    "date": "2022-09-30T18:06:26.041Z",
+    "_id": "",
+    "userName": "Yubis Guzmán ",
+    "userImage": "https://i.pinimg.com/280x280_RS/76/e0/8c/76e08c1fc563fa0105e31bddf6f57bee.jpg ",
+    "title": "Fantasy Watercolor Work",
+    "description": "Commision artwork",
+    "img": "https://i.pinimg.com/750x/2d/84/362d8436cfee66d34751f8974f1b55ac00.jpg",
+    "origin": "unknow",
+    "technique": [
+        "Watercolor"
+    ],
+    "style": "Fantasy",
+    "colors": [
+        "Khaki"
+    ],
+    "releaseDate": 2020,
+    "price": 187.55,
+    "stock": 10,
+    "tags": [
+        "paint",
+        "watercolor",
+        "colors"
+    ],
+    "likes": [],
+    "comments": [],
+    "__v": 0
+},
+{
+    "seen": true,
+    "transactions": [],
+    "date": "2022-09-30T18:06:26.041Z",
+    "_id": "",
+    "userName": "Yubis Guzmán ",
+    "userImage": " https://i.pinimg.com/280x280_RS/76/e0/8c/76e08c1fc563fa0105e31bddf6f57bee.jpg",
+    "title": "Fantasy Watercolor Work",
+    "description": "Commision artwork",
+    "img": "https://i.pinimg.com/750x/c7/6c/18/c76c1822594b10a11782d01dd39596d6.jpg",
+    "origin": "Venezuela",
+    "technique": [
+        "Watercolor"
+    ],
+    "style": "Fantasy",
+    "colors": [
+        "Violet"
+    ],
+    "releaseDate": 2020,
+    "price": 1397.52,
+    "stock": 10,
+    "tags": [
+        "paint",
+        "watercolor",
+        "colors"
+    ],
+    "likes": [],
+    "comments": [],
+    "__v": 0
+}]}
